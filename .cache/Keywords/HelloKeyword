@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "DAC3157DF50A7AEA322C970CB98B9A8B",
+  "keywordClasses": [
+    {
+      "name": "HelloKeyword",
+      "keywordMethods": [
+        {
+          "name": "hello",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>CheckpointAdminDemo</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/AdminDemoTestData_xlsx</source-url>
+   </source-info>
+   <taken-date>2023-02-27T07:34:06.908</taken-date>
+   <column-names>
+      <column-name>username</column-name>
+      <column-name>password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "admin@yourstore.com",
+      "checked": true
+    },
+    {
+      "value": "RAIVpflpDOg\u003d",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "xyz@yourstore.com",
+      "checked": false
+    },
+    {
+      "value": "RAIVpflpDOg\u003d",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "admin@yourstore.com",
+      "checked": true
+    },
+    {
+      "value": "admin",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
