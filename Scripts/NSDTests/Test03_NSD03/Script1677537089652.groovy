@@ -23,7 +23,5 @@ WebUI.navigateToUrl('http://www.nsden.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_Nilshantideep Enterprise - Spray Paint_7916d8/a_About Us'))
 
-WebUI.click(findTestObject('Object Repository/Page_About Us - NILSHANTIDEEP ENTERPRISE fr_0f198e/a_Contact Us'))
-
 WebUI.closeBrowser()
 
