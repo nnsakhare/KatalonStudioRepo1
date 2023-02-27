@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>3f490e3f-da15-49a2-b19e-742ea4e3f2fb</webElementGuid>
+      <webElementGuid>59efb99e-5221-4bb1-927f-a3936cedb7a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-userdropdown-name</value>
-      <webElementGuid>7b97f3dc-72ad-44c5-bca5-55bebff9fd82</webElementGuid>
+      <webElementGuid>b5e0e4f1-2a2e-4b60-877b-695b5b0f6057</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Paul Collings</value>
-      <webElementGuid>085b3eb5-db25-4de3-b5bd-bac4c8842920</webElementGuid>
+      <webElementGuid>227d9412-1cbf-411f-b01c-28bec940cff6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/header[@class=&quot;oxd-topbar&quot;]/div[@class=&quot;oxd-topbar-header&quot;]/div[@class=&quot;oxd-topbar-header-userarea&quot;]/ul[1]/li[@class=&quot;oxd-userdropdown&quot;]/span[@class=&quot;oxd-userdropdown-tab&quot;]/p[@class=&quot;oxd-userdropdown-name&quot;]</value>
-      <webElementGuid>e0772981-aabd-4fcd-8e90-84a9684f3b53</webElementGuid>
+      <webElementGuid>148cea59-c8f8-41c0-92d7-0a810346b8fa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/header/div/div[2]/ul/li/span/p</value>
-      <webElementGuid>491f4132-4d0d-4a42-beba-d91d3e4ad5cf</webElementGuid>
+      <webElementGuid>b9e76b3f-756b-46d3-9b21-6d5988018fcf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Paul Collings']/parent::*</value>
-      <webElementGuid>47216b5f-3e7b-4f6f-a0ce-e08c24bed3aa</webElementGuid>
+      <webElementGuid>9c2c545b-8bde-4b75-8c8c-54021fe8faae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>0cd36433-25ef-4493-a6e1-172ca08117eb</webElementGuid>
+      <webElementGuid>d224afb9-c594-4ee2-9253-d45ac723f20a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Paul Collings' or . = 'Paul Collings')]</value>
-      <webElementGuid>8e84c1a2-dcec-4626-bdb2-c3415dc8cda6</webElementGuid>
+      <webElementGuid>25cabb1e-ca4c-4aa0-a87d-04c4d40d3295</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
