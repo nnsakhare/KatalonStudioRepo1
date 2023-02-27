@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Type  Airless Spray Painti</name>
+   <tag></tag>
+   <elementGuidId>4fad7aad-3416-4a15-bf02-03353aa201d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bodyFormatNT']/div/div/ul/li[3]/div/div/div[3]/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6272eea6-13d3-46f3-bdd3-29b485802f1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt10px</value>
+      <webElementGuid>082194a0-eb34-4d78-ab9b-ac86392cc42e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Type : Airless Spray Painti..</value>
+      <webElementGuid>991fe7ae-ed76-430e-ac0e-05bd503ff86a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyFormatNT&quot;)/div[@class=&quot;scale-animation bdrEffect&quot;]/div[@class=&quot;cf_4img-flex ac-mb30px fullImageFrame&quot;]/ul[@class=&quot;lsn m0px p0px fo idv_eqheight ac-al&quot;]/li[@class=&quot;ac&quot;]/div[@class=&quot;pr ofh lh0 cp data&quot;]/div[@class=&quot;dib ofh&quot;]/div[@class=&quot;left-slide-box pa ac lh15em&quot;]/div[@class=&quot;mt5px lh14em al&quot;]/p[@class=&quot;mt10px&quot;]</value>
+      <webElementGuid>59900ae5-db5f-4b49-805f-5efb330e35a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyFormatNT']/div/div/ul/li[3]/div/div/div[3]/div[2]/p</value>
+      <webElementGuid>dd86eddc-5351-45ff-aa99-f502f26e6065</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Airless Spray Painting Machine'])[3]/following::p[1]</value>
+      <webElementGuid>2d52333e-6719-45fa-a5a1-8aae521788d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Airless Spray Painting Machine'])[2]/following::p[1]</value>
+      <webElementGuid>c3b2b595-e02e-4fd6-ae79-67664f45f505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usage :'])[1]/preceding::p[1]</value>
+      <webElementGuid>fefcf6ec-fb82-4c6d-a54a-e2a25f9f753b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Airless Spray Painti..']/parent::*</value>
+      <webElementGuid>6c2cae4f-7a16-40bd-8d28-1bf6cd91be05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div/div[3]/div[2]/p</value>
+      <webElementGuid>a133367c-ef09-44f5-9cf1-c9ffe6f83b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Type : Airless Spray Painti..' or . = 'Type : Airless Spray Painti..')]</value>
+      <webElementGuid>c25d96b1-f240-445c-8915-003e028d8248</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
